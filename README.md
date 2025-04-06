@@ -54,3 +54,9 @@ Ajoutez ces classes dans le CSS comme suit :
 .item-91, .item-93, .item-95, .item-97, .item-99 {
   background: rgba(0, 0, 0, 0.5);
 }
+
+``` javascript
+  test ({
+item: '1',
+item-2: '2'
+```
