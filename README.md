@@ -55,9 +55,9 @@ Ajoutez ces classes dans le CSS comme suit :
   background: rgba(0, 0, 0, 0.5);
 }
 
-``` javascript
-  test ({
+```javascript
+  test({
 item: '1',
-item-2: '2'
+item-2: '2',
 });
 ```
