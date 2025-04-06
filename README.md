@@ -59,4 +59,5 @@ Ajoutez ces classes dans le CSS comme suit :
   test ({
 item: '1',
 item-2: '2'
+});
 ```
